@@ -13,7 +13,7 @@ Here's an implementation of a GPT-2 inspired language model built from scratch u
 - Supports text generation
 
 ## Architecture
-![Model Architecture](model.JPG)
+![Model Architecture](https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2024%2F04%2Fmastering-decoder-only-transformer-a-comprehensive-guide%2F&psig=AOvVaw13xpnnmTAvFhT9oyHaTUN4&ust=1739903127286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjX5Liqy4sDFQAAAAAdAAAAABAp)
 
 ## Future Work
 - Implementing a full GPT-2 architecture
