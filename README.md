@@ -15,6 +15,12 @@ Here's an implementation of a GPT-2 inspired language model built from scratch u
 ## Architecture
 ![Model Architecture](model.jpg)
 
+## Dataset
+The Tiny Shakespeare dataset is used for training and evaluation. It consists of 11,000 lines of text from Shakespeare's plays and sonnets.
+```sh
+wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+```
+
 ## Future Work
 - Implementing a full GPT-2 architecture
 - Adding support for byte-pair encoding (BPE)
